@@ -1,2 +1,1 @@
-# Router-Dataplane
-A dataplane implementation for a router in C
+Repository for the first homework of the Communication Networks class. In this homework the students will implement the dataplane of a router.
